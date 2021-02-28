@@ -1,3 +1,1 @@
-# GitHowTo-1.1
-
-lll
+This is the Hello World example from the git tutorial.
